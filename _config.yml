@@ -23,7 +23,8 @@ description: "Experienced iOS Developer & Software Engineer"
 baseurl: "" # the subpath of your site, e.g∂ /blog
 #url: "https://shawncole.dev" # replace with your domain
 
-theme: "minimal-mistakes-jekyll"
+#theme: "minimal-mistakes-jekyll"
+remote_theme: minimal-mistakes-jekyll
 
 domain: Cole9350.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://Cole9350.github.io  # the base hostname and protocol for your site, e.g. http://example.com
