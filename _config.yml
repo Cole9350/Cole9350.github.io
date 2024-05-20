@@ -20,7 +20,7 @@
 
 title: "Shawn Cole"
 description: "Experienced iOS Developer & Software Engineer"
-baseurl: "" # the subpath of your site, e.g∂ /blog
+baseurl: "/cole9350.github.io" # the subpath of your site, e.g∂ /blog
 #url: "https://shawncole.dev" # replace with your domain
 
 #theme: "minimal-mistakes-jekyll"
